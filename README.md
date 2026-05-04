@@ -256,4 +256,4 @@ Your Smart Electricity Optimizer is fully equipped with:
 
 ---
 
-Amit Gorte, Rohit Tiwari, Sumit Kumar
+Aryan Singh
